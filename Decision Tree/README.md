@@ -3,8 +3,8 @@
 Decision Tree ID3 without using builtin libraries. 
 
 ***Heuristics Usesd:***
-- Information Gain as H1
-- Variance Impurity as H2
+- [Information Gain](https://en.wikipedia.org/wiki/Information_gain_in_decision_trees) as H1
+- [Variance Impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity) as H2
 
 ***Accuracy***
 1. Dataset 1: </br>
