@@ -4,9 +4,10 @@
 ### Every time system randomly chooses above two thus, generating new results every time.
 
 ## accuracies: 
-_____________________________________________________________________</br>
-No. Epochs | Learning Rate | Accuracy | acuuracy(without stopwards) |</br>
-___________|_______________|__________|_____________________________|</br>
+__________________________________________________________________________ </br>
+No. Epochs  | Learning Rate   | Accuracy   | acuuracy(without stopwards)  | </br>
+
+
 11.0000    |     0.0200    |  87.2385 |   	62.3431             |</br>
 8.0000     |     0.0400    |  87.0293 |   	71.5481             |</br>
 18.0000    |     0.0600    |  92.2594 |   	80.5439             |</br>
